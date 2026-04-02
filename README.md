@@ -1,7 +1,9 @@
 # 🎉 AutoPilotX - Enterprise AI Assistant
 
 For more details, you can refer to the  youtube video.:
-https://youtu.be/TPzBQAMot6g
+## 🎥 Demo Video
+Watch AutoPilotX in action:
+https://www.youtube.com/watch?v=TPzBQAMot6g
 
 A comprehensive AI-powered business assistant designed specifically for Indian MSMEs, featuring intelligent document processing, real-time voice conversations, automated workflows, and a powerful RAG (Retrieval-Augmented Generation) system that lets you chat with your business data in natural language.
 
@@ -49,14 +51,6 @@ A comprehensive AI-powered business assistant designed specifically for Indian M
 - **Document Management**: View uploaded documents and their processing status
 - **Agent Activity Logs**: Monitor AI assistant actions and success rates
 - **Export Capabilities**: Download reports and processed data in multiple formats
-
-## 🎥 Demo Video
-
-Watch AutoPilotX in action:
-
-[![AutoPilotX Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID)
-
-[🎬 View Demo Video](https://youtu.be/YOUR_VIDEO_ID)
 
 ## 🚀 Quick Start
 

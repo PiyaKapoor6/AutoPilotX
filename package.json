@@ -1,0 +1,25 @@
+{
+  "name": "autopilotx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npm run dev --prefix Autopilotx-main/Autopilotx-main",
+    "build": "npm run build --prefix Autopilotx-main/Autopilotx-main",
+    "start": "npm run start --prefix Autopilotx-main/Autopilotx-main",
+    "lint": "npm run lint --prefix Autopilotx-main/Autopilotx-main",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PiyaKapoor6/AutoPilotX.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/PiyaKapoor6/AutoPilotX/issues"
+  },
+  "homepage": "https://github.com/PiyaKapoor6/AutoPilotX#readme"
+}

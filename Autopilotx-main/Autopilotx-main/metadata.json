@@ -1,0 +1,5 @@
+{
+  "name": "AutoPilotX",
+  "description": "Agentic AI Suite for Enterprise Automation & Knowledge Clarity, built for Indian MSMEs.",
+  "requestFramePermissions": ["microphone"]
+}
